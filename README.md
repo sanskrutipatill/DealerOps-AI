@@ -236,3 +236,4 @@ To apply the schema and seed data to your live Supabase project:
    - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
    - `GEMINI_API_KEY`
 4. Click **Deploy**. Vercel will automatically build and publish DealerOps AI.
+
